@@ -1,11 +1,26 @@
-## Getting Started
+# Project Title
 
-Install the dependencies and run the development server
+This is a simple Lnading Page made with the help of React and Next.js
 
+
+## Deployment
+
+1. Install Node Modules
 ```bash
-npm install
-npm run dev
-# or
-yarn
-yarn dev
+  npm install
 ```
+2. To run the server
+```bash
+  npm run dev
+```
+
+  
+## Demo
+
+Insert gif or link to demo
+
+
+
+  
+##  About Me
+Siddarth-B-A
